@@ -105,7 +105,7 @@ def chat(request):
                               🔗 <a href='https://theoneaim.in/cloud-services' target='_blank'>Explore</a>""",
 
             # Web Development
-            "web development": """💻 <b>Web Development</b><br>
+           "web development": """💻 <b>Web Development</b><br>
                                    ONE AIM builds high-performance, scalable websites and platforms tailored to your business needs.<br><br>
                                   - Responsive Web Applications<br>
                                   - Custom Web Solutions<br>
@@ -113,6 +113,56 @@ def chat(request):
                                   - E-Commerce Development<br>
                                   - API Integration & Backend Services<br><br>
                                   🔗 <a href='https://theoneaim.in/development-services' target='_blank'>Explore Web Development</a>""",
+           "web development services": """💻 <b>Web Development</b><br>
+                                   ONE AIM builds high-performance, scalable websites and platforms tailored to your business needs.<br><br>
+                                  - Responsive Web Applications<br>
+                                  - Custom Web Solutions<br>
+                                  - UI/UX Design<br>
+                                  - E-Commerce Development<br>
+                                  - API Integration & Backend Services<br><br>
+                                  🔗 <a href='https://theoneaim.in/development-services' target='_blank'>Explore Web Development</a>""",
+
+           "web services": """💻 <b>Web Development</b><br>
+                                   ONE AIM builds high-performance, scalable websites and platforms tailored to your business needs.<br><br>
+                                  - Responsive Web Applications<br>
+                                  - Custom Web Solutions<br>
+                                  - UI/UX Design<br>
+                                  - E-Commerce Development<br>
+                                  - API Integration & Backend Services<br><br>
+                                  🔗 <a href='https://theoneaim.in/development-services' target='_blank'>Explore Web Development</a>""",
+           "web dev services": """💻 <b>Web Development</b><br>
+                                   ONE AIM builds high-performance, scalable websites and platforms tailored to your business needs.<br><br>
+                                  - Responsive Web Applications<br>
+                                  - Custom Web Solutions<br>
+                                  - UI/UX Design<br>
+                                  - E-Commerce Development<br>
+                                  - API Integration & Backend Services<br><br>
+                                  🔗 <a href='https://theoneaim.in/development-services' target='_blank'>Explore Web Development</a>""",
+           "web service": """💻 <b>Web Development</b><br>
+                                   ONE AIM builds high-performance, scalable websites and platforms tailored to your business needs.<br><br>
+                                  - Responsive Web Applications<br>
+                                  - Custom Web Solutions<br>
+                                  - UI/UX Design<br>
+                                  - E-Commerce Development<br>
+                                  - API Integration & Backend Services<br><br>
+                                  🔗 <a href='https://theoneaim.in/development-services' target='_blank'>Explore Web Development</a>""",
+           "web development service": """💻 <b>Web Development</b><br>
+                                   ONE AIM builds high-performance, scalable websites and platforms tailored to your business needs.<br><br>
+                                  - Responsive Web Applications<br>
+                                  - Custom Web Solutions<br>
+                                  - UI/UX Design<br>
+                                  - E-Commerce Development<br>
+                                  - API Integration & Backend Services<br><br>
+                                  🔗 <a href='https://theoneaim.in/development-services' target='_blank'>Explore Web Development</a>""",
+           "web dev service": """💻 <b>Web Development</b><br>
+                                   ONE AIM builds high-performance, scalable websites and platforms tailored to your business needs.<br><br>
+                                  - Responsive Web Applications<br>
+                                  - Custom Web Solutions<br>
+                                  - UI/UX Design<br>
+                                  - E-Commerce Development<br>
+                                  - API Integration & Backend Services<br><br>
+                                  🔗 <a href='https://theoneaim.in/development-services' target='_blank'>Explore Web Development</a>""",
+
             "web dev": """💻 <b>Web Development</b><br>
                                    ONE AIM builds high-performance, scalable websites and platforms tailored to your business needs.<br><br>
                                   - Responsive Web Applications<br>
@@ -305,6 +355,33 @@ def chat(request):
                              💰 <a href='https://theoneaim.in/finance-&-banking' target='_blank'>Finance & Banking</a><br>
                              🎓 <a href='https://theoneaim.in/education' target='_blank'>Education</a><br>
                              🛡️ <a href='https://theoneaim.in/government-&-defense' target='_blank'>Government & Defense</a>""",
+            "industries": """🌐 <b>Industries We Are In</b><br>
+                              We provide industry-specific technology solutions. Choose your industry of interest:<br><br>
+                             🚗 <a href='https://theoneaim.in/automobile' target='_blank'>Automobile</a><br>
+                             📞 <a href='https://theoneaim.in/telecommunication' target='_blank'>Telecommunications</a><br>
+                             🏥 <a href='https://theoneaim.in/healthcare' target='_blank'>Healthcare</a><br>
+                             🛒 <a href='https://theoneaim.in/e-commerce' target='_blank'>E-Commerce</a><br>
+                             💰 <a href='https://theoneaim.in/finance-&-banking' target='_blank'>Finance & Banking</a><br>
+                             🎓 <a href='https://theoneaim.in/education' target='_blank'>Education</a><br>
+                             🛡️ <a href='https://theoneaim.in/government-&-defense' target='_blank'>Government & Defense</a>""",
+            "automobile": """🌐 <b>Industries We Are In</b><br>
+                              We provide industry-specific technology solutions. Choose your industry of interest:<br><br>
+                             🚗 <a href='https://theoneaim.in/automobile' target='_blank'>Automobile</a><br>
+                             📞 <a href='https://theoneaim.in/telecommunication' target='_blank'>Telecommunications</a><br>
+                             🏥 <a href='https://theoneaim.in/healthcare' target='_blank'>Healthcare</a><br>
+                             🛒 <a href='https://theoneaim.in/e-commerce' target='_blank'>E-Commerce</a><br>
+                             💰 <a href='https://theoneaim.in/finance-&-banking' target='_blank'>Finance & Banking</a><br>
+                             🎓 <a href='https://theoneaim.in/education' target='_blank'>Education</a><br>
+                             🛡️ <a href='https://theoneaim.in/government-&-defense' target='_blank'>Government & Defense</a>""",
+            "telecommunication": """🌐 <b>Industries We Are In</b><br>
+                              We provide industry-specific technology solutions. Choose your industry of interest:<br><br>
+                             🚗 <a href='https://theoneaim.in/automobile' target='_blank'>Automobile</a><br>
+                             📞 <a href='https://theoneaim.in/telecommunication' target='_blank'>Telecommunications</a><br>
+                             🏥 <a href='https://theoneaim.in/healthcare' target='_blank'>Healthcare</a><br>
+                             🛒 <a href='https://theoneaim.in/e-commerce' target='_blank'>E-Commerce</a><br>
+                             💰 <a href='https://theoneaim.in/finance-&-banking' target='_blank'>Finance & Banking</a><br>
+                             🎓 <a href='https://theoneaim.in/education' target='_blank'>Education</a><br>
+                             🛡️ <a href='https://theoneaim.in/government-&-defense' target='_blank'>Government & Defense</a>""",
             "industry": """🌐 <b>Industries We Are In</b><br>
                               We provide industry-specific technology solutions. Choose your industry of interest:<br><br>
                              🚗 <a href='https://theoneaim.in/automobile' target='_blank'>Automobile</a><br>
@@ -314,6 +391,34 @@ def chat(request):
                              💰 <a href='https://theoneaim.in/finance-&-banking' target='_blank'>Finance & Banking</a><br>
                              🎓 <a href='https://theoneaim.in/education' target='_blank'>Education</a><br>
                              🛡️ <a href='https://theoneaim.in/government-&-defense' target='_blank'>Government & Defense</a>""",
+            "industry": """🌐 <b>Industries We Are In</b><br>
+                              We provide industry-specific technology solutions. Choose your industry of interest:<br><br>
+                             🚗 <a href='https://theoneaim.in/automobile' target='_blank'>Automobile</a><br>
+                             📞 <a href='https://theoneaim.in/telecommunication' target='_blank'>Telecommunications</a><br>
+                             🏥 <a href='https://theoneaim.in/healthcare' target='_blank'>Healthcare</a><br>
+                             🛒 <a href='https://theoneaim.in/e-commerce' target='_blank'>E-Commerce</a><br>
+                             💰 <a href='https://theoneaim.in/finance-&-banking' target='_blank'>Finance & Banking</a><br>
+                             🎓 <a href='https://theoneaim.in/education' target='_blank'>Education</a><br>
+                             🛡️ <a href='https://theoneaim.in/government-&-defense' target='_blank'>Government & Defense</a>""",
+            "industry": """🌐 <b>Industries We Are In</b><br>
+                              We provide industry-specific technology solutions. Choose your industry of interest:<br><br>
+                             🚗 <a href='https://theoneaim.in/automobile' target='_blank'>Automobile</a><br>
+                             📞 <a href='https://theoneaim.in/telecommunication' target='_blank'>Telecommunications</a><br>
+                             🏥 <a href='https://theoneaim.in/healthcare' target='_blank'>Healthcare</a><br>
+                             🛒 <a href='https://theoneaim.in/e-commerce' target='_blank'>E-Commerce</a><br>
+                             💰 <a href='https://theoneaim.in/finance-&-banking' target='_blank'>Finance & Banking</a><br>
+                             🎓 <a href='https://theoneaim.in/education' target='_blank'>Education</a><br>
+                             🛡️ <a href='https://theoneaim.in/government-&-defense' target='_blank'>Government & Defense</a>""",
+            "industry": """🌐 <b>Industries We Are In</b><br>
+                              We provide industry-specific technology solutions. Choose your industry of interest:<br><br>
+                             🚗 <a href='https://theoneaim.in/automobile' target='_blank'>Automobile</a><br>
+                             📞 <a href='https://theoneaim.in/telecommunication' target='_blank'>Telecommunications</a><br>
+                             🏥 <a href='https://theoneaim.in/healthcare' target='_blank'>Healthcare</a><br>
+                             🛒 <a href='https://theoneaim.in/e-commerce' target='_blank'>E-Commerce</a><br>
+                             💰 <a href='https://theoneaim.in/finance-&-banking' target='_blank'>Finance & Banking</a><br>
+                             🎓 <a href='https://theoneaim.in/education' target='_blank'>Education</a><br>
+                             🛡️ <a href='https://theoneaim.in/government-&-defense' target='_blank'>Government & Defense</a>""",
+
 
             #location
             "address": """📍 <strong>Office Address:</strong><br>Office No-123, Omega<br>Anukampa, Near Sanskrit College<br>Bhankrota, 
